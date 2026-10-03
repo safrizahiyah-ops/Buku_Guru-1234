@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kerja Guru Digital",
+  "description": "Satu Aplikasi untuk Seluruh Administrasi dan Perangkat Pembelajaran Guru: Buku 1, Buku 2, Buku 3, Buku 4, dan AI Asisten Guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
